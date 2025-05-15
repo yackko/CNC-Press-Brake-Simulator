@@ -1,10 +1,4 @@
-# CNC-Press-Brake-Simulator
-
-
-Under development
-
-
-# CNC Press Brake Simulator (Gio)
+Under development # CNC Press Brake Simulator (Gio)
 
 Version: v0.4.0 (Pro Refactored)
 
